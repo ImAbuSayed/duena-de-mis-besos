@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dueña de mis besos
+
+This log tracks the cryptographic history and versioning for the song **Dueña de mis besos** (duena-de-mis-besos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T05:26:11.342638 | `v1` | `0d4524b65023ee35028c310babca8c78d34c7870448a898faa8f03a8bbcb2df0` | `0d5e3e64e01d47b9f559abd35b3d5544d2c2b90477f9a154782445e90a1f0216` | `2026-06-23_duena-de-mis-besos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
