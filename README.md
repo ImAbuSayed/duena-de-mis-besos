@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/duena-de-mis-besos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Dueña de mis besos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/duena-de-mis-besos/) |
+| **Get License** | [Request Licensing for Dueña de mis besos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/duena-de-mis-besos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dueña de mis besos, dueña de mi piel
+> Cuando bailas lento, me vuelves a encender
+> Esa noche es nuestra, nadie nos va a ver
+> Dueña de mis besos, solo tú y mi ser
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
